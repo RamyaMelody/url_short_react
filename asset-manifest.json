@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RamyaMelody/URL_Shortener_ReactJS/static/css/main.ab8b95b9.chunk.css",
+    "main.js": "/RamyaMelody/URL_Shortener_ReactJS/static/js/main.78f434a3.chunk.js",
+    "main.js.map": "/RamyaMelody/URL_Shortener_ReactJS/static/js/main.78f434a3.chunk.js.map",
+    "runtime-main.js": "/RamyaMelody/URL_Shortener_ReactJS/static/js/runtime-main.6695a8e8.js",
+    "runtime-main.js.map": "/RamyaMelody/URL_Shortener_ReactJS/static/js/runtime-main.6695a8e8.js.map",
+    "static/js/2.e8f923b8.chunk.js": "/RamyaMelody/URL_Shortener_ReactJS/static/js/2.e8f923b8.chunk.js",
+    "static/js/2.e8f923b8.chunk.js.map": "/RamyaMelody/URL_Shortener_ReactJS/static/js/2.e8f923b8.chunk.js.map",
+    "index.html": "/RamyaMelody/URL_Shortener_ReactJS/index.html",
+    "precache-manifest.90d820259372f991a498dac1faef4b16.js": "/RamyaMelody/URL_Shortener_ReactJS/precache-manifest.90d820259372f991a498dac1faef4b16.js",
+    "service-worker.js": "/RamyaMelody/URL_Shortener_ReactJS/service-worker.js",
+    "static/css/main.ab8b95b9.chunk.css.map": "/RamyaMelody/URL_Shortener_ReactJS/static/css/main.ab8b95b9.chunk.css.map",
+    "static/js/2.e8f923b8.chunk.js.LICENSE.txt": "/RamyaMelody/URL_Shortener_ReactJS/static/js/2.e8f923b8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RamyaMelody/URL_Shortener_ReactJS/static/media/url.225b16b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6695a8e8.js",
+    "static/js/2.e8f923b8.chunk.js",
+    "static/css/main.ab8b95b9.chunk.css",
+    "static/js/main.78f434a3.chunk.js"
+  ]
+}
